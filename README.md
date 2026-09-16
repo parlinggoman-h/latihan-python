@@ -39,6 +39,17 @@ Kumpulan latihan dan project Python saya dalam perjalanan belajar coding dari no
 - `latihan_error2.py` — Pembagian aman
 - `latihan_error3.py` — Akses list yang aman
 
+## 🚀 Projects
+
+### 1. 📝 To-Do List CLI
+Aplikasi daftar tugas berbasis terminal dengan fitur lengkap.
+- 📁 [Lihat kode](./07_project/)
+- 📖 [Baca dokumentasi](./07_project/README.md)
+
+---
+
+*(Project lainnya akan menyusul)*
+
 ## 🛠️ Tools
 
 - Python 3.14
