@@ -46,6 +46,11 @@ Aplikasi daftar tugas berbasis terminal dengan fitur lengkap.
 - 📁 [Lihat kode](./07_project/)
 - 📖 [Baca dokumentasi](./07_project/README.md)
 
+### 2. 💰 Aplikasi Keuangan CLI
+Aplikasi pencatat pemasukan dan pengeluaran berbasis terminal.
+- 📁 [Lihat kode](./08_project_keuangan/)
+- 📖 [Baca dokumentasi](./08_project_keuangan/README.md)
+
 ---
 
 *(Project lainnya akan menyusul)*
